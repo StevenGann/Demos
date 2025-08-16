@@ -1,6 +1,6 @@
-# Bouncing Circles Physics Simulation
+# Particles
 
-A real-time physics simulation of bouncing circles with interactive mouse controls, built using Raylib-cs for C#.
+A real-time physics simulation of particles with interactive mouse controls, built using Raylib-cs for C#.
 
 ## Features
 
