@@ -398,9 +398,9 @@ namespace Particles
             Console.WriteLine("  --help, -h      Show this help information");
             Console.WriteLine();
             Console.WriteLine("Examples:");
-            Console.WriteLine("  DevmateTest.exe           # Run with 3000 circles");
-            Console.WriteLine("  DevmateTest.exe 1000      # Run with 1000 circles");
-            Console.WriteLine("  DevmateTest.exe 10000     # Run with 10000 circles");
+            Console.WriteLine("  Particles.exe           # Run with 3000 circles");
+            Console.WriteLine("  Particles.exe 1000      # Run with 1000 circles");
+            Console.WriteLine("  Particles.exe 10000     # Run with 10000 circles");
             Console.WriteLine();
             Console.WriteLine("Controls:");
             Console.WriteLine("  Left Mouse Button         Attract circles to cursor");
